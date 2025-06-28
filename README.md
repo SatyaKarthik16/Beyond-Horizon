@@ -23,6 +23,7 @@ What We Did: - Built everything from the ground up: - Created conceptual databas
 4 🧱 Database Architecture
 4.1 🧮 Conceptual DB Diagram
 Database Layout
+![image](https://github.com/user-attachments/assets/8a750856-e52b-456d-8549-6ab69dc76340)
 
 Database Layout
 Tables Created: - traveller, booking, package, insurance, medical_metrics
@@ -31,12 +32,14 @@ Tables Created: - traveller, booking, package, insurance, medical_metrics
 
 4.2 🔗 Final ERD Diagram
 Entity Relationship Diagram
+![image](https://github.com/user-attachments/assets/b445bcb4-f2e7-4b0f-bdfa-22ca8ac20609)
 
 Entity Relationship Diagram
 🎯 Each table is linked via primary and foreign keys to ensure referential integrity, eliminate redundancy, and support efficient query performance.
 
 4.3 🧾 Sample Table
 Employee Table
+![image](https://github.com/user-attachments/assets/668b6a67-07ec-434a-8a05-0aee7b477026)
 
 Employee Table
 5 🧠 Time for some querying
