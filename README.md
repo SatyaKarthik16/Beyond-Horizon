@@ -77,3 +77,24 @@ WHERE P.payment_method = 'Credit Card';
 
 and many more…I will leave it to your creativity with what kind of scenarios you can come up with.
 
+
+6 🛠️ Tools & Technologies Used
+SQL (DDL, DML)
+
+ER Diagram Design Tools (e.g., Lucid chart, draw.io)
+
+Google Slides
+
+7 🧠 Skills Applied
+SQL Queries (Joins, Aggregates, Sub queries)
+
+Data Modeling & Normalization
+
+Entity-Relationship Design
+
+Data Integrity & Testing
+
+Report Generation & Storytelling with Data
+
+8 🙌 Thanks for Visiting
+
